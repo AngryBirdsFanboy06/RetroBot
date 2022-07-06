@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/retro-dev-rblx/RetroBot/issues"
   },
-  "homepage": "https://github.com/retro-dev-rblx/RetroBot#readme"
+  "homepage": "https://github.com/retro-dev-rblx/RetroBot#readme",
+  "dependencies": {
+    "@mfd/rbxdatastoreservice": "^2.3.10"
+  }
 }
