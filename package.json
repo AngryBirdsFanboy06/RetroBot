@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "name": "retrobot",
+  "version": "1.0.0",
+  "description": "The bot for the Retro Dev discord (discord.gg/retro)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retro-dev-rblx/RetroBot.git"
+  },
+  "author": "Cristiano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retro-dev-rblx/RetroBot/issues"
+  },
+  "homepage": "https://github.com/retro-dev-rblx/RetroBot#readme"
+}
